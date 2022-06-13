@@ -1,1 +1,3 @@
 # Belly_Button_Biodiversity
+
+The following analysis shows a completed panel for demographic information on various bacteria found in the belly button of human beings which can be crucial in the production of synthetic beef. However, all this needs to be visualized so the volunteers are able to identify the top 10 bacterial species in their belly buttons. In that, the company running the production identifies a species as a candidate to manufacture synthetic beef. 
